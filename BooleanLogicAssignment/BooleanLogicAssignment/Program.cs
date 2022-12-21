@@ -17,7 +17,9 @@ namespace BooleanLogicAssignment
             Console.WriteLine("How many speeding tickets do you have?");
             int tickets = Convert.ToInt32(Console.ReadLine());
 
+            // sets boolean variable to answer these qualifications
             bool qualified = age > 15 && dui == false && tickets <= 3;
+            // outputs user response
             Console.WriteLine("Is this applicant qualified? " + qualified);
             Console.ReadLine();
         }
