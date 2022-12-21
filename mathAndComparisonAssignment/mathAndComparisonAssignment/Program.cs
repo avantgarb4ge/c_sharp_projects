@@ -12,17 +12,18 @@ namespace mathAndComparisonAssignment
         {
             Console.WriteLine("Anonymous Income Comparison Program");
             Console.WriteLine("Person 1");
-            Console.WriteLine("What is your annual income?");
-            string p1salary = Console.ReadLine();
-            int p1income = Convert.ToInt32(p1salary);
+            Console.WriteLine("What is your hourly rate?");
+            int p1rate = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("How many hours do you work a week?");
-            string p1hours = Console.ReadLine();
+            int p1hours = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Person 2");
-            Console.WriteLine("What is your annual income?");
-            string p2salary = Console.ReadLine();
-            int p2income = Convert.ToInt32(p2salary);
+            Console.WriteLine("What is your hourly rate?");
+            int p2rate = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("How many hours do you work a week?");
-            string p2hours = Console.ReadLine();
+            int p2hours = Convert.ToInt32(Console.ReadLine());
+
+            int p1income = p1rate * p1hours * 52;
+            int p2income = p2rate * p2hours * 52;
             Console.WriteLine("Annual Salary of Person 1: " + p1income);
             Console.ReadLine();
             Console.WriteLine("Annual Salary of Person 2: " + p2income);
