@@ -1,0 +1,7 @@
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.AssemblyReference.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe.config
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.pdb
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.pdb
