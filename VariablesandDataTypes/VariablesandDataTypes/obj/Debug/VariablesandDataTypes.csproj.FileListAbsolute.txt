@@ -1,0 +1,7 @@
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\VariablesandDataTypes\VariablesandDataTypes\bin\Debug\VariablesandDataTypes.exe.config
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\VariablesandDataTypes\VariablesandDataTypes\bin\Debug\VariablesandDataTypes.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\VariablesandDataTypes\VariablesandDataTypes\bin\Debug\VariablesandDataTypes.pdb
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\VariablesandDataTypes\VariablesandDataTypes\obj\Debug\VariablesandDataTypes.csproj.AssemblyReference.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\VariablesandDataTypes\VariablesandDataTypes\obj\Debug\VariablesandDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\VariablesandDataTypes\VariablesandDataTypes\obj\Debug\VariablesandDataTypes.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\VariablesandDataTypes\VariablesandDataTypes\obj\Debug\VariablesandDataTypes.pdb

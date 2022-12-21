@@ -1,0 +1,7 @@
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.AssemblyReference.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
