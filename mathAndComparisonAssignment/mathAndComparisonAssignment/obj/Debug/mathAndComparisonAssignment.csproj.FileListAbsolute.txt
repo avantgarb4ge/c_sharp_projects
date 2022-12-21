@@ -1,0 +1,7 @@
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\mathAndComparisonAssignment\mathAndComparisonAssignment\bin\Debug\mathAndComparisonAssignment.exe.config
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\mathAndComparisonAssignment\mathAndComparisonAssignment\bin\Debug\mathAndComparisonAssignment.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\mathAndComparisonAssignment\mathAndComparisonAssignment\bin\Debug\mathAndComparisonAssignment.pdb
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\mathAndComparisonAssignment\mathAndComparisonAssignment\obj\Debug\mathAndComparisonAssignment.csproj.AssemblyReference.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\mathAndComparisonAssignment\mathAndComparisonAssignment\obj\Debug\mathAndComparisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\mathAndComparisonAssignment\mathAndComparisonAssignment\obj\Debug\mathAndComparisonAssignment.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\mathAndComparisonAssignment\mathAndComparisonAssignment\obj\Debug\mathAndComparisonAssignment.pdb
