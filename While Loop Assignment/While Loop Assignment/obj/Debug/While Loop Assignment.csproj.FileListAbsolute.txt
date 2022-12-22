@@ -1,0 +1,7 @@
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\While Loop Assignment\While Loop Assignment\bin\Debug\While Loop Assignment.exe.config
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\While Loop Assignment\While Loop Assignment\bin\Debug\While Loop Assignment.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\While Loop Assignment\While Loop Assignment\bin\Debug\While Loop Assignment.pdb
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\While Loop Assignment\While Loop Assignment\obj\Debug\While Loop Assignment.csproj.AssemblyReference.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\While Loop Assignment\While Loop Assignment\obj\Debug\While Loop Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\While Loop Assignment\While Loop Assignment\obj\Debug\While Loop Assignment.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\While Loop Assignment\While Loop Assignment\obj\Debug\While Loop Assignment.pdb
