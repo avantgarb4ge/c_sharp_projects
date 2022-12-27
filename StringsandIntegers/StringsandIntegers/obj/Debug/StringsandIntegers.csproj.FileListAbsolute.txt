@@ -1,0 +1,7 @@
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\StringsandIntegers\StringsandIntegers\bin\Debug\StringsandIntegers.exe.config
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\StringsandIntegers\StringsandIntegers\bin\Debug\StringsandIntegers.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\StringsandIntegers\StringsandIntegers\bin\Debug\StringsandIntegers.pdb
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\StringsandIntegers\StringsandIntegers\obj\Debug\StringsandIntegers.csproj.AssemblyReference.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\StringsandIntegers\StringsandIntegers\obj\Debug\StringsandIntegers.csproj.CoreCompileInputs.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\StringsandIntegers\StringsandIntegers\obj\Debug\StringsandIntegers.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\StringsandIntegers\StringsandIntegers\obj\Debug\StringsandIntegers.pdb
