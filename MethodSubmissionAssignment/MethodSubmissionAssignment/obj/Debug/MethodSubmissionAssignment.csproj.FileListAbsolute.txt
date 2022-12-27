@@ -1,0 +1,7 @@
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.exe.config
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.pdb
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.pdb
