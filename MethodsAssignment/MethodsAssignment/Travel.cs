@@ -8,9 +8,10 @@ namespace MethodsAssignment
 {
     public class Travel
     {
-        public int gas { get; set; } // constructor
+        public int gas { get; set; } // constructor? sets class property
         
-        public int oregon() // method 1: calculate gas total from user's input
+        // following are 3 different methods, calculates gas in each state
+        public int oregon()
         {
             return (int)(gas * 4.1);
         }
