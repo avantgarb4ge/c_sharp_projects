@@ -16,10 +16,10 @@ namespace MethodsAssignment
             // assigns user input to class property
             trip1.gas = Convert.ToInt32(Console.ReadLine());
 
-            // calls each of the methods
-            Console.WriteLine(trip1.gas + " gallons of gas in Oregon would cost $" + trip1.oregon());
-            Console.WriteLine(trip1.gas + " gallons of gas in Maryland would cost $" + trip1.maryland());
-            Console.WriteLine(trip1.gas + " gallons of gas in Texas would cost $" + trip1.texas());
+            // calls each of the methods, must pass in argument
+            Console.WriteLine(trip1.gas + " gallons of gas in Oregon would cost $" + trip1.oregon(gas));
+            Console.WriteLine(trip1.gas + " gallons of gas in Maryland would cost $" + trip1.maryland(gas));
+            Console.WriteLine(trip1.gas + " gallons of gas in Texas would cost $" + trip1.texas(gas));
 
             Console.ReadLine();
 

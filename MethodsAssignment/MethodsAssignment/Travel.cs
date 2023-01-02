@@ -8,18 +8,16 @@ namespace MethodsAssignment
 {
     public class Travel
     {
-        public int gas { get; set; } // constructor? sets class property
-        
         // following are 3 different methods, calculates gas in each state
-        public int oregon()
+        public int oregon(int gas) // need to pass in parameter aka users input
         {
             return (int)(gas * 4.1);
         }
-        public int maryland()
+        public int maryland(int gas)
         {
             return (int)(gas * 3.75);
         }
-        public int texas()
+        public int texas(int gas)
         {
             return (int)(gas * 2.34);
         }
