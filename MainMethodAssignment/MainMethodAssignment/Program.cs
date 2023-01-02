@@ -18,7 +18,7 @@ namespace MainMethodAssignment
 
             Methods unit1 = new Methods();
             // calls second method
-            Console.WriteLine("The second method total is: " + unit1.mathOperation(5.8));
+            Console.WriteLine("The second method total is: " + unit1.mathOperation(5.9m));
             Console.ReadLine();
 
             Methods unit2 = new Methods();

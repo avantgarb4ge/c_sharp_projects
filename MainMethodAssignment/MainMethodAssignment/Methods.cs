@@ -16,7 +16,7 @@ namespace MainMethodAssignment
         }
         
         // second method takes in decimal
-        public int mathOperation(double num)
+        public int mathOperation(decimal num)
         {
             int num1 = Convert.ToInt32(num);
             int total = (int)(num1 - 2.2); // explicit cast? not sure why this removes the red squiggly
