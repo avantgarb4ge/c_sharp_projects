@@ -1,0 +1,7 @@
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MethodsAssignment\MethodsAssignment\bin\Debug\MethodsAssignment.exe.config
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MethodsAssignment\MethodsAssignment\bin\Debug\MethodsAssignment.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MethodsAssignment\MethodsAssignment\bin\Debug\MethodsAssignment.pdb
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MethodsAssignment\MethodsAssignment\obj\Debug\MethodsAssignment.csproj.AssemblyReference.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MethodsAssignment\MethodsAssignment\obj\Debug\MethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MethodsAssignment\MethodsAssignment\obj\Debug\MethodsAssignment.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MethodsAssignment\MethodsAssignment\obj\Debug\MethodsAssignment.pdb
