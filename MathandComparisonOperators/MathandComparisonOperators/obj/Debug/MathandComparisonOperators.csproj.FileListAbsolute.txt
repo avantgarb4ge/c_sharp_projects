@@ -1,0 +1,7 @@
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MathandComparisonOperators\MathandComparisonOperators\bin\Debug\MathandComparisonOperators.exe.config
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MathandComparisonOperators\MathandComparisonOperators\bin\Debug\MathandComparisonOperators.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MathandComparisonOperators\MathandComparisonOperators\bin\Debug\MathandComparisonOperators.pdb
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MathandComparisonOperators\MathandComparisonOperators\obj\Debug\MathandComparisonOperators.csproj.AssemblyReference.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MathandComparisonOperators\MathandComparisonOperators\obj\Debug\MathandComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MathandComparisonOperators\MathandComparisonOperators\obj\Debug\MathandComparisonOperators.exe
+C:\Users\kathe\OneDrive\Documents\kat_codes\c_sharp_projects\MathandComparisonOperators\MathandComparisonOperators\obj\Debug\MathandComparisonOperators.pdb
