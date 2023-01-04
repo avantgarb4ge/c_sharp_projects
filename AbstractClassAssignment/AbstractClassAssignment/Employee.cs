@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace AbstractClassAssignment
 {
-    public class Employee : Person, IQuittable // inherits from Person class
+    public class Employee : Person, IQuittable // inherits from Person class and interface
     {
         public override void sayName() // inherited method, but overwritten
         {
-            Console.WriteLine("This the full name: ");
-            base.sayName(); // automatic, but i suppose this still executes the method procedure in Person class
+            Console.WriteLine("This the full name: " + firstName + " " + lastName);
         }
-        public void Quit(Person person)
+        public void Quit(Person person) // inheriting method from interface
         {
             System.Environment.Exit(0);
         }

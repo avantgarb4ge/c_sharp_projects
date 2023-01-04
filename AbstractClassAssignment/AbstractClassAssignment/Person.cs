@@ -12,9 +12,6 @@ namespace AbstractClassAssignment
         public string firstName { get; set; }
         public string lastName { get; set; }
 
-        public virtual void sayName() // method, but can't be called unless inherited, therefore virtual must be inputted for access
-        {
-            Console.WriteLine(firstName + " " + lastName);
-        }
+        public abstract void sayName(); // declaring abstract method, doesnt need implementation 
     }
 }
