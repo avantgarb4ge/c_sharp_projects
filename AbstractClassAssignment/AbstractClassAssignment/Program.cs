@@ -18,6 +18,7 @@ namespace AbstractClassAssignment
             Console.ReadLine();
 
             IQuittable quitter = new Employee(); // instantiate new object since Employee class inherits from IQuittable interface
+            quitter.Quit(); // calling method
             Console.ReadLine();
         }
     }

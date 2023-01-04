@@ -12,9 +12,9 @@ namespace AbstractClassAssignment
         {
             Console.WriteLine("This the full name: " + firstName + " " + lastName);
         }
-        public void Quit(Person person) // inheriting method from interface
+        public void Quit() // inheriting method from interface
         {
-            System.Environment.Exit(0);
+            Console.WriteLine("successful method calling");
         }
     }
 }
