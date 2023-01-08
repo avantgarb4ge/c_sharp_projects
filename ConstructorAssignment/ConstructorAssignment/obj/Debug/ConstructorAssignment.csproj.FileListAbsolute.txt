@@ -1,0 +1,7 @@
+C:\Users\Katherine Pak\Documents\GitHub\c_sharp_projects\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe.config
+C:\Users\Katherine Pak\Documents\GitHub\c_sharp_projects\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.exe
+C:\Users\Katherine Pak\Documents\GitHub\c_sharp_projects\ConstructorAssignment\ConstructorAssignment\bin\Debug\ConstructorAssignment.pdb
+C:\Users\Katherine Pak\Documents\GitHub\c_sharp_projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.AssemblyReference.cache
+C:\Users\Katherine Pak\Documents\GitHub\c_sharp_projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Katherine Pak\Documents\GitHub\c_sharp_projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.exe
+C:\Users\Katherine Pak\Documents\GitHub\c_sharp_projects\ConstructorAssignment\ConstructorAssignment\obj\Debug\ConstructorAssignment.pdb
